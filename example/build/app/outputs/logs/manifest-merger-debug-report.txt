@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [:e2e] C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\build\e2e\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter] C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\e0d9a60122e82eb03fcf85ecfdd17c0b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\webkit-1.0.0.aar\fe4f955c2fc58cac88c6feec9f937ded\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\4e55646dc8ebeb7dea77c6e04ceabf0e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\6e666ba82a72a30ed20cfd9de8acbde6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\7b29ae3b6b9ff79e1fe3f51caf9443f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1809a9648ffe34f6bcf17409dca3a437\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2e6fcbb769a5d12e4711f7185d3d9dda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\787ab3f24ae1cfcd8683460706c4379a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\26aa51f2ffa12880cf69a2a294ef3459\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\2e889e9042845faaf436828a17c8dbe1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6b3d3c653b9d5590a7d395aa5c117fe6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\41ec3f215c73bc75aed5f933bb9104ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\2660731a5dfd36c3f2df6757d60a0f17\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\b7ad9623e63775b9f51cf179f7d66c60\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\2bd1e55c8260dd032265b86fbb8be7c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\61d5b2f3489fc34dcca58fd01271ad72\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:rules:1.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\rules-1.2.0.aar\697d265ea36e4c7129033ecec16e4c19\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\espresso-core-3.2.0.aar\44d1366d1e39a6c2ce3e8c7ba814453f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\runner-1.2.0.aar\2db80c523066f9b74204c96a218e3aed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\49d64fcb788f17246542da24c25abbe5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c70f959c48316909aa2ecbe7162b3962\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\monitor-1.2.0.aar\ee1189d632dd0da1f12cc09f2eacdf6f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\a0b4404bd59483cc9779f0db798d4dcd\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\87c6b48675faed2b81d4bccf0b2a9230\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\9c0d0b9f4535e063c1476592b3f69e39\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e32c591f7a1fea98704140ed225b108e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\c99af6be8fa3c875d8232cb3d40e3bf2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\e9111af23b0c80b305c07b9d8f76dff9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.2.0.aar\0b9ac08a791b369699d83914f2cf18e5\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:2:3-53
+		INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:9:3-26:17
+MERGED from [androidx.core:core:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\2660731a5dfd36c3f2df6757d60a0f17\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\2660731a5dfd36c3f2df6757d60a0f17\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\a0b4404bd59483cc9779f0db798d4dcd\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\a0b4404bd59483cc9779f0db798d4dcd\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\2660731a5dfd36c3f2df6757d60a0f17\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:11:5-44
+	android:icon
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:10:5-39
+	android:name
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:12:5-53
+activity#io.flutter.plugins.webviewflutterexample.MainActivity
+ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:14:5-25:16
+	android:launchMode
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:17:7-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:16:7-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:20:7-49
+	android:configChanges
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:15:7-131
+	android:theme
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:19:7-41
+	android:name
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:18:7-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:21:7-24:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:23:9-68
+	android:name
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:23:19-66
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:32:3-64
+	android:name
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml:32:20-62
+uses-sdk
+INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+MERGED from [:e2e] C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\build\e2e\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:e2e] C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\build\e2e\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\build\webview_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\e0d9a60122e82eb03fcf85ecfdd17c0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\e0d9a60122e82eb03fcf85ecfdd17c0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\webkit-1.0.0.aar\fe4f955c2fc58cac88c6feec9f937ded\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\webkit-1.0.0.aar\fe4f955c2fc58cac88c6feec9f937ded\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\4e55646dc8ebeb7dea77c6e04ceabf0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\4e55646dc8ebeb7dea77c6e04ceabf0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\6e666ba82a72a30ed20cfd9de8acbde6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\6e666ba82a72a30ed20cfd9de8acbde6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\7b29ae3b6b9ff79e1fe3f51caf9443f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\7b29ae3b6b9ff79e1fe3f51caf9443f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1809a9648ffe34f6bcf17409dca3a437\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1809a9648ffe34f6bcf17409dca3a437\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2e6fcbb769a5d12e4711f7185d3d9dda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2e6fcbb769a5d12e4711f7185d3d9dda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\787ab3f24ae1cfcd8683460706c4379a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\787ab3f24ae1cfcd8683460706c4379a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\26aa51f2ffa12880cf69a2a294ef3459\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\26aa51f2ffa12880cf69a2a294ef3459\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\2e889e9042845faaf436828a17c8dbe1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\2e889e9042845faaf436828a17c8dbe1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6b3d3c653b9d5590a7d395aa5c117fe6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6b3d3c653b9d5590a7d395aa5c117fe6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\41ec3f215c73bc75aed5f933bb9104ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\41ec3f215c73bc75aed5f933bb9104ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\2660731a5dfd36c3f2df6757d60a0f17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\2660731a5dfd36c3f2df6757d60a0f17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\b7ad9623e63775b9f51cf179f7d66c60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\b7ad9623e63775b9f51cf179f7d66c60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\2bd1e55c8260dd032265b86fbb8be7c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\2bd1e55c8260dd032265b86fbb8be7c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\61d5b2f3489fc34dcca58fd01271ad72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\61d5b2f3489fc34dcca58fd01271ad72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:rules:1.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\rules-1.2.0.aar\697d265ea36e4c7129033ecec16e4c19\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\rules-1.2.0.aar\697d265ea36e4c7129033ecec16e4c19\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\espresso-core-3.2.0.aar\44d1366d1e39a6c2ce3e8c7ba814453f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\espresso-core-3.2.0.aar\44d1366d1e39a6c2ce3e8c7ba814453f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\runner-1.2.0.aar\2db80c523066f9b74204c96a218e3aed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\runner-1.2.0.aar\2db80c523066f9b74204c96a218e3aed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\49d64fcb788f17246542da24c25abbe5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\49d64fcb788f17246542da24c25abbe5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c70f959c48316909aa2ecbe7162b3962\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c70f959c48316909aa2ecbe7162b3962\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\monitor-1.2.0.aar\ee1189d632dd0da1f12cc09f2eacdf6f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\monitor-1.2.0.aar\ee1189d632dd0da1f12cc09f2eacdf6f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\a0b4404bd59483cc9779f0db798d4dcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\a0b4404bd59483cc9779f0db798d4dcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\87c6b48675faed2b81d4bccf0b2a9230\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\87c6b48675faed2b81d4bccf0b2a9230\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\9c0d0b9f4535e063c1476592b3f69e39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\9c0d0b9f4535e063c1476592b3f69e39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e32c591f7a1fea98704140ed225b108e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e32c591f7a1fea98704140ed225b108e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\c99af6be8fa3c875d8232cb3d40e3bf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\c99af6be8fa3c875d8232cb3d40e3bf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\e9111af23b0c80b305c07b9d8f76dff9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\e9111af23b0c80b305c07b9d8f76dff9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.2.0.aar\0b9ac08a791b369699d83914f2cf18e5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\Qubex Developer 1\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.2.0.aar\0b9ac08a791b369699d83914f2cf18e5\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Qubex Developer 1\Desktop\webview_flutter\example\android\app\src\main\AndroidManifest.xml
