@@ -1,4 +1,0 @@
-#Fri Oct 25 14:06:03 NPT 2019
-base.0=C\:\\Users\\Qubex Developer 1\\Desktop\\webview_flutter\\example\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
